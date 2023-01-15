@@ -1,0 +1,6 @@
+flutter_native_splash:
+  color: "#ffffff"
+  fullscreen: true
+  image: assets/images/clippericon.png
+  android: true
+  ios: false
